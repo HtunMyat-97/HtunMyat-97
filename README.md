@@ -7,12 +7,12 @@ I enjoy building scalable APIs, optimizing database performance, and developing 
 
 ## 🚀 Tech Stack  
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white)  
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?logo=laravel&logoColor=white)  
-![jQuery](https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white)  
-![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?logo=vue.js&logoColor=white)  
-![NestJS](https://img.shields.io/badge/NestJS-E0234E?logo=nestjs&logoColor=white)  
-![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?logo=rubyonrails&logoColor=white)  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)  
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)  
+![jQuery](https://img.shields.io/badge/jQuery-0769AD?style=for-the-badge&logo=jquery&logoColor=white)  
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=for-the-badge&logo=vue.js&logoColor=white)  
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)  
+![Ruby on Rails](https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=for-the-badge&logo=rubyonrails&logoColor=white)  
 
 ---
 
