@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Htun Htun Myat  
 
-💻 **Backend Developer** with 5+ years of experience specializing in **PHP, Laravel, MySQL** and modern JavaScript frameworks.  
+💻 **Backend Developer** with 6+ years of experience specializing in **PHP, Laravel, MySQL** and modern JavaScript frameworks.  
 I enjoy building scalable APIs, optimizing database performance, and developing systems that solve real-world problems.  
 
 ---
